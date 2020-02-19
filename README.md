@@ -1,1 +1,1 @@
-# inital-resume-website
+# initial-resume-website
